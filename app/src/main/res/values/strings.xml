@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RelocationMovingTruckRental</string>
+    <string name="txtTitle">Relocation Moving Truck Rental</string>
+    <string name="rb10">10\' Truck</string>
+    <string name="rb17">17\' Truck</string>
+    <string name="rb26">26\' Truck</string>
+    <string name="btnCost">Compute Cost</string>
+    <string name="hint1">Number of Miles</string>
+    <string name="imgDescription">Size of Truck Image</string>
+</resources>
